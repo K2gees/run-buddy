@@ -66,7 +66,8 @@
   .hero {
       background-image: url("../images/hero.jpg");
       height: 600px;
-  
+      background-size: cover;
+      background-position: center;
   }
   /* Hero Style End */
   .hero-form {
@@ -74,4 +75,5 @@
     padding: 20px;
     width: 500px;
     color: #024e76;
+    border: solid 3px #024e76;
   }
