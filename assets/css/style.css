@@ -207,6 +207,9 @@
   .contact h2 {
     color: #fce138;
   }
+  .conmtact-info {
+    display: inline;
+  }
   .contact-info iframe {
     width: 400px;
     height: 400px;
